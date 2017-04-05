@@ -1,5 +1,6 @@
 # Drupal theme validator
-A checklist of rules to validate commercial and free themes (and distributions)
+
+A checklist with rules to validate commercial and free Drupal themes (and distributions).
 
 ## Checklist
 
@@ -11,7 +12,7 @@ A checklist of rules to validate commercial and free themes (and distributions)
  - [ ] Demo content works
  - [ ] Tied with demo content - ability to change content
  - [ ] Mobile and tablet displays
- 
+
 ---
  
  - [ ] Extra modules used (custom)
@@ -43,4 +44,6 @@ A checklist of rules to validate commercial and free themes (and distributions)
 - Add ranges for each item (eg percent)
 - Add specific standards per item
 - Create a webpage with the list
+- Validate several free themes
+- Create table with themes vs validations
 
